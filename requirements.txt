@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+MinMaxScaler
+chart_studio
+plotly
+warnings
+sklearn
+keras
+tensorflow
